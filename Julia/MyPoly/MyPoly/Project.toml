@@ -1,0 +1,4 @@
+name = "MyPoly"
+uuid = "3887c68e-a182-4a7e-8e68-43fbd6698b4c"
+authors = ["christophernhill <cnh@mit.edu>"]
+version = "0.1.0"
